@@ -1,0 +1,72 @@
+.titulo{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.centralizar{
+    background-color: #454546;
+    width: 250px;
+    margin-top: 30px;
+    border-radius: 60%;
+}
+body{
+    background: #b5b5b5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 125px;
+          
+}
+
+.input-padrao{
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px 0px;
+    width: 400px;
+    padding: 12px;
+    border-color: none;
+}
+.btn{
+    background-color: black;
+}
+.btn:hover{
+    background-color: #55565f;
+    transition-delay: 1s;
+}
+.container-imagens{
+    display: flex;
+    flex-direction: column;
+    
+}
+.adjust{
+    font-size: 43px;
+    display: flex;
+    justify-content: space-around;
+}
+.fa-brands:hover{
+    color: blue;
+}
+.cadastrar{
+    margin-top: 80px;
+    font-size: 20px;
+    color: black;
+}
+.cadastrar:hover{
+    color: white;
+}
+.topico{
+    margin-top: 40px;
+}
+.input-padrao{
+    font-size: 10px;
+}
+.campo{
+    font-size: 18px;
+    margin-top: 20px;
+}
